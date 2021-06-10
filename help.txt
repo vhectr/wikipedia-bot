@@ -1,0 +1,9 @@
+__**Wikipedia Bot Help**__
+
+w?search - Search for a term on Wikipedia.
+w?summary - Get a summary for a term on Wikipedia.
+w?suggest - Suggest a search term for a certain word.
+w?url - Get the URL of a certain article on Wikipedia.
+w?content - Get the content of an entire article on Wikipedia.
+w?ping - Show bot ping.
+w?copyright - Show copyright information.
