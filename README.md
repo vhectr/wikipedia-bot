@@ -2,7 +2,7 @@
 
 A bot for interacting with Wikipedia through Discord.
 
-Public Instance Invite: https://discord.com/api/oauth2/authorize?client_id=851994005968912395&permissions=298048&scope=bot
+Public Instance Invite (This will not always be on, as it is hosted on my computer.): https://discord.com/api/oauth2/authorize?client_id=851994005968912395&permissions=298048&scope=bot
 
 ## Features
 
@@ -17,3 +17,7 @@ Public Instance Invite: https://discord.com/api/oauth2/authorize?client_id=85199
 1. Download and unzip from releases or the download button.
 2. Run main.py in the terminal using `python3` command.
 3. Make sure the device you are using to host the bot stays on.
+
+## Links
+
+[Public Instance Status](https://vhectr.statuspage.io)
